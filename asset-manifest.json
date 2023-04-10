@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/akshat-gupta60/greetingpage/static/css/main.f9902c79.css",
+    "main.js": "/akshat-gupta60/greetingpage/static/js/main.733e017e.js",
+    "index.html": "/akshat-gupta60/greetingpage/index.html",
+    "main.f9902c79.css.map": "/akshat-gupta60/greetingpage/static/css/main.f9902c79.css.map",
+    "main.733e017e.js.map": "/akshat-gupta60/greetingpage/static/js/main.733e017e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9902c79.css",
+    "static/js/main.733e017e.js"
+  ]
+}
