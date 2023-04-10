@@ -1,0 +1,25 @@
+body{
+  background-color: #b4f2e1;
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0%;
+  display: flex; 
+  justify-content: center;
+  align-items: center; 
+  font-family: 'Josefin Sans', sans-serif;
+}
+div{
+  position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 500px;
+      height: 100px;
+      background-color: rgb(190, 201, 228);
+      border-radius: 10px;
+      padding: 10px;
+      color: rgb(245, 107, 22);
+      display: flex; /* Use flexbox to center the content */
+      justify-content: center; /* Center along the horizontal axis */
+      align-items: center; /*Center along the vertical axis*/
+}
